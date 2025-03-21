@@ -4,8 +4,8 @@ Hi there! 👋 I'm Iruvuri Bhargav Ram , an aspiring Data Analyst with a passion
 ---
 ## 🌱 Current Endeavors  
 🎓 **Pursuing Data Analytics** at **Masai School** (Jun 2024 - Current)  
-🎓 **Recent graduate** of **Osmania University**, where I earned a **Bachelor of Commerce, General** (Aug 2021 - Jun 2024) 🎓  
-🔍 Working on exciting projects involving **Netflix Data** and its related **Api**. 🕵️‍♂️ 
+🎓 **Graduate** of **ANNA University**, where I earned a **Bachelor of Engineering in Computer Science Engineering, General** 🎓  
+🔍 Working on exciting projects involving **HR Data** and its related **Api**. 🕵️‍♂️ 
 
 ---
 
@@ -55,7 +55,6 @@ I enjoy building **dashboards**, creating **predictive models**, and experimenti
 
 ### ☁️ Cloud & Version Control  
 <div>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
@@ -77,26 +76,18 @@ I enjoy building **dashboards**, creating **predictive models**, and experimenti
 ## 🌱 Let’s Connect!  
 Feel free to reach out or collaborate with me:  
 <div>
-  <a href="https://github.com/shailesh-1011">
+  <a href="https://github.com/Bhargav-Ram-I">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/shaileshkumarsingh1/">
+  <a href="https://www.linkedin.com/in/bhargav-ram-iruvuri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shaileshed@gmail.com">
+  <a href="mailto:bhargavrami1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
 --- 
 
-### 📊 GitHub Activity  
-![Shailesh's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
-
-### 🧑‍💻 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-1011&layout=compact&theme=radical&hide_border=true)
-
-### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=shailesh-1011&theme=radical&no-frame=true&margin-w=15)
 
 
